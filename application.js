@@ -92,3 +92,5 @@ function NotesApplication(author) {
   }
 
 }
+
+module.exports = NotesApplication
